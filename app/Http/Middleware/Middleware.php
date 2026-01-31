@@ -1,0 +1,3 @@
+<?php
+
+// Middleware logic here
